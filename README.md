@@ -3,6 +3,10 @@ Titulo: Diseño e implementación de una infraestructura necesaria para el funci
 
 
 Autor: Rafael Carlos Díaz Mata
+
+
 Director: Juan Carlos Gámez Granados
+
+
 Universidad de Córdoba.
 
